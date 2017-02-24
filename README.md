@@ -2,8 +2,10 @@
 Repository for materials about AI learning, including image, speech and NLP, etc.
 
 
-# Image Understanding
+## Image Understanding
 
+### Image Classification
+- `googlenet inception v3`
 
 
 # Video Understanding
